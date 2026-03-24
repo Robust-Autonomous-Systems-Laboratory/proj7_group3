@@ -1,0 +1,18 @@
+# Build artifacts
+../build/
+../install/
+../log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VSCode
+.vscode/browse.vc.db*
+
+# ROS bags
+*.bag
+*.db3
+*.mcap
+rosbag2_*/
