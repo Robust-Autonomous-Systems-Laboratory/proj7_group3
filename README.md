@@ -32,12 +32,6 @@ There were no real issues encountered when setting up the simulations other than
 **Terminal output confirming goal reached**
 ![Terminal output](figures/terminal.png)
 
-**Screen recordings of the simulation:**
-
-![Simulation Recording 1](figures/sim_recording1.gif)
-
-![Simulation Recording 2](figures/sim_recording2.gif)
-
 The Nav2 package performed very well, it appeared to pretty easily localize and navigate between goals. As it improved its localization and discovered more of the map the path planning improved on the fly.
 
 ---
@@ -50,6 +44,12 @@ The Nav2 package performed very well, it appeared to pretty easily localize and 
 The saved map files are committed to the repository:
 - [`maps/eerc722.pgm`](maps/eerc722.pgm)
 - [`maps/eerc722.yaml`](maps/eerc722.yaml)
+
+**Screen recordings of the mapping and driving around:**
+
+![Simulation Recording 1](figures/sim_recording1.gif)
+
+![Simulation Recording 2](figures/sim_recording2.gif)
 
 **Video of the real-world navigation:**
 
